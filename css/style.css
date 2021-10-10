@@ -1,5 +1,25 @@
 
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+
+  .red-text {
+    color: red;
+  }
+
+  h1 {
+      color: purple;
+  }
+  h2 {
+    font-family: Lobster, monospace;
+    color: hotpink;
+  }
+
+  p {
+    color: purple;
+    font-size: 16px;
+    font-family: monospace;
+  }
+
+
 body {
     background-color: greenyellow;
-    
 }
